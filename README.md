@@ -10,11 +10,11 @@ I am maintaining integrations on Home Assistant 🏡 :
 * [Google Travel Time](https://www.home-assistant.io/integrations/google_travel_time/)
 * [Waze Travel Time](https://www.home-assistant.io/integrations/waze_travel_time/)
 * [Kraken](https://www.home-assistant.io/integrations/kraken/)
+* [Fressnapf Tracker](https://www.home-assistant.io/integrations/fressnapf_tracker)
 
 And a few custom integrations for Home Assistant 🏡 :
 
 * [Weenect](https://github.com/eifinger/hass-weenect)
-* [Fressnapf Tracker](https://github.com/eifinger/hass-fressnapf-tracker)
 * [Folding@Home](https://github.com/eifinger/hass-foldingathomecontrol)
 
 I am also maintaining the GitHub Actions :octocat: :
