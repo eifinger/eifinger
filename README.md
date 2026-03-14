@@ -2,8 +2,6 @@
 
 I learnt programming with ☕ Java, done professional work in the dotnet space and learned 🐍 Python in order to contribute to [Home Assistant](https://www.home-assistant.io/) and give back.
 
-Currently mostly using Python and Kotlin and trying to learn 🦀 Rust.
-
 I am maintaining integrations on Home Assistant 🏡 :
 
 * [HERE Travel Time](https://www.home-assistant.io/integrations/here_travel_time/)
